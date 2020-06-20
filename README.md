@@ -3,12 +3,12 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/saymow/Discord-clone/blob/master/.github/discord.png"/>
+  <img src="https://github.com/saymow/Discord-clone/blob/master/.github/demonstration.png"/>
 </p>
 
 <br>
 <p>
-This project was made in a rocketseat class given by <a href="https://github.com/guilhermerodz" target="_blank"> Guilerme Rodz</a>. Where the objective was to clone discord interface.  <a href="https://www.youtube.com/watch?v=x4FdZd2-_uU">Check it out</a> .
+This project was made in a rocketseat class given by <a href="https://github.com/guilhermerodz" target="_blank"> Guilerme Rodz</a>. Where the objective was to clone discord interface.  <a href="https://www.youtube.com/watch?v=x4FdZd2-_uU" target="_blank">Check it out</a> .
 </p>
 
 <br>
